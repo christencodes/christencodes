@@ -22,7 +22,7 @@
 <br/>
 
 ---
-
+### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Coding Everyday until I become a Web Dev | Day 2](https://ytcards.demolab.com/?id=tMCtmfnBVbs&title=Coding+Everyday+until+I+become+a+Web+Dev+%7C+Day+2&lang=en&timestamp=1763096988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday until I become a Web Dev | Day 2")](https://www.youtube.com/watch?v=tMCtmfnBVbs)
 [![Coding Everyday until I become a Web Dev | Day 1](https://ytcards.demolab.com/?id=AoDW9yPnxzk&title=Coding+Everyday+until+I+become+a+Web+Dev+%7C+Day+1&lang=en&timestamp=1763008005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Everyday until I become a Web Dev | Day 1")](https://www.youtube.com/watch?v=AoDW9yPnxzk)
