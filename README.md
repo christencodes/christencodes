@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🧙🏾‍♂️ Christen Allison
 
-<!--
-**christencodes/christencodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Frontend Magician 🪄 `**
 
-Here are some ideas to get you started:
+👋🏾 Hi, I'm Christen! <br/>
+🪖 I'm a USAF Veteran <br/>
+🎓 I have a BFA in Graphic Design from Lamar University
+📔 I'm currently learning HTML, CSS , and JavaScript! <br/>
+🥅 My Goal is to become a Frontend Web Developer! <br/>
+🎥 You can watch my videos on YouTube : [@christencodes](https://www.youtube.com/@christencodes)! <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
