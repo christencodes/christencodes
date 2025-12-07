@@ -6,7 +6,7 @@
 🪖 I'm a USAF Veteran <br/>
 🎓 I have a BFA in Graphic Design from Lamar University
 📔 I'm currently learning HTML, CSS , and JavaScript! <br/>
-🥅 My Goal is to become a Frontend Web Developer! <br/>
+🥅 My Goal is to become a Web Developer! <br/>
 🎥 You can watch my videos on YouTube : [@christencodes](https://www.youtube.com/@christencodes)! <br/>
 
 ---
