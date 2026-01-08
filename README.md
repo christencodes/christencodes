@@ -1,8 +1,12 @@
 # 🧙🏾‍♂️ Christen Allison
 
 **`Frontend Magician 🪄 `**
-​​Older than a blade of grass and younger than a mountain.
-- Said a Wise Man
+
+
+```js
+ ​​Older than a blade of grass and younger than a mountain.
+- said a Wise Man
+```
 
 👋🏾 Hi, I'm Christen! <br/>
 🪖 I'm a USAF Veteran <br/>
