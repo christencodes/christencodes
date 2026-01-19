@@ -8,6 +8,11 @@
 - said a Wise Man
 ```
 
+```js
+Make yourself do what you dont want to until you can do exactly what you want to.
+- Lawrence
+```
+
 👋🏾 Hi, I'm Christen! <br/>
 🪖 I'm a USAF Veteran <br/>
 🎓 I have a BFA in Graphic Design from Lamar University
